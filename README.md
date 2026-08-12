@@ -284,11 +284,6 @@ Possible future enhancements include:
 
 🎓 B.Tech — Artificial Intelligence & Data Science
 
-### Connect with Me
-
-* 💻 GitHub: [Swati Jadhav](https://github.com/Swati2064)
-* 💼 LinkedIn: [Swati Jadhav](https://www.linkedin.com/in/swati-jadhav-b759a6315/)
-
 ---
 
 ## ⭐ Support
