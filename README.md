@@ -286,12 +286,6 @@ Possible future enhancements include:
 
 ---
 
-## ⭐ Support
-
-If you find this project useful for learning **Agentic AI, Generative AI, and LLMs**, consider giving the repository a ⭐ on GitHub.
-
----
-
 <p align="center">
   <b>🤖 Exploring Agentic AI • Generative AI • LLMs • AI Agents</b>
 </p>
